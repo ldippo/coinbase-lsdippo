@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/fbe1a97e-d038-488a-bc68-73956e2f9908/resourceGroups/lsdippo/providers/Microsoft.Web/sites/coinbase-lsdippo",
+    "appService.deploySubpath": "."
+}
